@@ -8,6 +8,7 @@ Sebelum install Git di Windows kita perlu mendownload [GIT](https://code.visuals
 ![01](images/git_install/1.png)
 
 2. Setelah itu, pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika memang anda menginginkan lokasi lain. Klik **Next** untuk lanjut.
+
 ![02](images/git_install/2.png)
 
 3. Pilih komponen. Tidak perlu diubah-ubah, sesuai dengan default saja. Klik pada **Next**.
