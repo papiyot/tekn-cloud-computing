@@ -5,6 +5,7 @@
 Sebelum install Git di Windows kita perlu mendownload [GIT](https://code.visualstudio.com/) terlebih dahulu.
 
 1. Setelah selesai download Git, jalankan program GIT. Akan dimunculkan lisensi. Klik **Next** untuk lanjut.
+
 ![01](images/git_install/1.png)
 
 2. Setelah itu, pilih lokasi instalasi. Secara default akan terisi C:\Program Files\Git. Ganti lokasi jika memang anda menginginkan lokasi lain. Klik **Next** untuk lanjut.
@@ -12,15 +13,19 @@ Sebelum install Git di Windows kita perlu mendownload [GIT](https://code.visuals
 ![02](images/git_install/2.png)
 
 3. Pilih komponen. Tidak perlu diubah-ubah, sesuai dengan default saja. Klik pada **Next**.
+
 ![03](images/git_install/3.png)
 
 4. Mengisi shortcut untuk menu Start. Gunakan default (Git), ganti jika ingin mengganti - misalnya Git VCS.
+
 ![04](images/git_install/4.png)
 
 5. Pilih editor yang akan digunakan bersama dengan Git. Pada pilihan ini, digunakan Visual Studio Code.
+
 ![05](images/git_install/5.png)
 
 6. Pada saat instalasi, kita bisa melakukan setting default branch saat melakukan git init, disini saya memilih main
+
 ![06](images/git_install/6.png)
 
 7. Pada saat instalasi, Git menyediakan akses git melalui Bash maupun command prompt. Pilih pilihan kedua supaya bisa menggunakan dari dua antarmuka tersebut. Bash adalah shell di Linux. Dengan menggunakan bash di Windows, pekerjaan di command line Windows bisa dilakukan menggunakan bash - termasuk ekskusi dari Git.
@@ -28,9 +33,11 @@ Sebelum install Git di Windows kita perlu mendownload [GIT](https://code.visuals
 ![07](images/git_install/7.png)
 
 8. Pilih **bundled OpenSSH** untuk HTTPS. Git menggunakan SSH untuk akes ke repo GitHub atau repo-repo lain (GitLab, Assembla).
+
 ![08](images/git_install/8.png)
 
 9. Pilih **OpenSSL** untuk HTTPS. Git menggunakan https untuk akes ke repo GitHub atau repo-repo lain (GitLab, Assembla).
+
 ![09](images/git_install/9.png)
 
 10. Pilih pilihan pertama untuk konversi akhir baris (CR-LF).
@@ -92,22 +99,27 @@ $ git config --global user.email email@domain.tld
 $ git config --list
 ```
 untuk hasilnya seperti ini
+
 ![20](images/git_konfigurasi/1.png)
 
 ## C. Mengelola Repo Sendiri di Account Sendiri
 Untuk membuat repo, gunakan langkah-langkan berikut:
 
 1. Klik tanda + pada bagian atas setelah login, pilih **New repository**
+
 ![20](images/git/1.png)
 
 2. Isikan nama, keterangan, serta lisensi. Jika dikehendaki, bisa membuat repo Private
+
 ![20](images/git/2.png)
 
 ## C. Mengelola Repo Sendiri di Organisasi
 Untuk membuat repo, gunakan langkah-langkan berikut:
 
 1. Masuk pada Organisasi Kalian lalu Klik tanda + pada bagian atas setelah login, pilih **New repository**
+
 ![20](images/git/3.png)
 
 2. Isikan nama, keterangan, serta lisensi. Jika dikehendaki, bisa membuat repo Private
+
 ![20](images/git/4.png)
