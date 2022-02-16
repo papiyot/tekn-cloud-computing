@@ -24,6 +24,7 @@ Sebelum install Git di Windows kita perlu mendownload [GIT](https://code.visuals
 ![06](images/git_install/6.png)
 
 7. Pada saat instalasi, Git menyediakan akses git melalui Bash maupun command prompt. Pilih pilihan kedua supaya bisa menggunakan dari dua antarmuka tersebut. Bash adalah shell di Linux. Dengan menggunakan bash di Windows, pekerjaan di command line Windows bisa dilakukan menggunakan bash - termasuk ekskusi dari Git.
+
 ![07](images/git_install/7.png)
 
 8. Pilih **bundled OpenSSH** untuk HTTPS. Git menggunakan SSH untuk akes ke repo GitHub atau repo-repo lain (GitLab, Assembla).
@@ -33,6 +34,7 @@ Sebelum install Git di Windows kita perlu mendownload [GIT](https://code.visuals
 ![09](images/git_install/9.png)
 
 10. Pilih pilihan pertama untuk konversi akhir baris (CR-LF).
+
 ![10](images/git_install/10.png)
 
 11. Pilih PuTTY untuk terminal yang digunakan untuk mengakses Git Bash.
