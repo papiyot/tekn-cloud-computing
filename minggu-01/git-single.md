@@ -38,33 +38,43 @@ Sebelum install Git di Windows kita perlu mendownload [GIT](https://code.visuals
 ![10](images/git_install/10.png)
 
 11. Pilih PuTTY untuk terminal yang digunakan untuk mengakses Git Bash.
+
 ![11](images/git_install/11.png)
 
 12. Pilih Default untuk proses git pull.
+
 ![12](images/git_install/12.png)
 
 13. Aktifkan **Git Credential Manager** pada proses ini. 
+
 ![13](images/git_install/13.png)
 
 14. Untuk opsi ekstra, pilih serta aktifkan **Enable File System Caching**.
+
 ![14](images/git_install/14.png)
 
 15. Setelah itu proses instalasi akan dilakukan.
+
 ![15](images/git_install/15.png)
 
 16. Jika selesai akan muncul dialog pemberitahuan. Klik pada Finish.
+
 ![16](images/git_install/16.png)
 
 17. Untuk menjalankan, dari Start, ketikkan **"Git"**, akan muncul beberapa pilihan. Pilih **"Git Bash"** atau **"Git GUI"**.
+
 ![17](images/git_install/17.png)
 
 18. Tampilan jika akan menggunakan **Git Bash**
+
 ![18](images/git_install/18.png)
 
 19. Tampilan jika akan menggunakan **Git GUI**
+
 ![19](images/git_install/19.png)
 
 20. Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum. Jika sudah terinstall dengan benar, makan akan muncul hasil berikut:
+
 ![20](images/git_install/20.png)
 
 ## B. Konfigurasi GIT
