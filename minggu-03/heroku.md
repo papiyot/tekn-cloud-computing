@@ -50,6 +50,7 @@ Jika Login terverfikasi akan muncul keterangan login seperti gambar diatas
 Buka Terminal, Clone aplikasi Python, setelah itu masuk ke direktori project aplikasi lalu jalankan "heroku create" setelah berhasil akan muncul link domain. domain tersebut alamat untuk membuka aplikasi yang sudah di buat tadi.
 
 ![9](images/9.png)
+![9a](images/9a.png)
 
 5. Buka Aplikasi lewat Browser
 Inilah Hasil Aplikasi yang sudah di buat dengan layanan heroku.
