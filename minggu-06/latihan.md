@@ -294,6 +294,7 @@ func main() {
 }
 
 ```
-5. buka browser akses http://localhost:20001/api/user
+5. jalankan main.go "go run main.go"
+6. buka browser akses http://localhost:20001/api/user
 
 ![7](images/7.png)
