@@ -4,18 +4,21 @@
 1. [Download Go](https://go.dev/dl/) sesuai OS yang digunakan
 2. Setelah selesai download, kita install Go 
 3. setelah berhasil install go, kita bisa mengeceknya menggunakan terminal
+
 ![1](images/1.png)
 
 ## Install MYSQL
 1. [Download MYSQL](https://dev.mysql.com/downloads/installer/) sesuai OS yang digunakan
 2. Setelah selesai download, kita install MYSQL 
 3. setelah berhasil install MYSQL, kita bisa mengeceknya menggunakan terminal
+
 ![2](images/2.png)
 
 ## Install MONGODB
 1. [Download MONGODB](https://www.mongodb.com/try/download/community) sesuai OS yang digunakan
 2. Setelah selesai download, kita install MONGODB 
 3. setelah berhasil install MONGODB, kita bisa mengeceknya menggunakan terminal
+
 ![3](images/3.png)
 
 ## Akses Database MYSQL dengan golang
@@ -84,6 +87,7 @@ func main() {
 
 ```
 4. Jalankan program dengan "go run Mysql.go"
+
 ![4](images/4.png)
 
 ## Akses Database MONGOFB dengan golang
@@ -156,6 +160,7 @@ func main() {
 
 ```
 4. Jalankan program dengan "go run MongoDB.go"
+
 ![5](images/5.png)
 
 
@@ -220,6 +225,7 @@ func main() {
 
 6. jalankan main.go "go run main.go"
 7. buka browser akses http://localhost:20001/api/propinsi
+
 ![6](images/6.png)
 
 ## RESTful API Gin FrameWork MongoDB
@@ -289,4 +295,5 @@ func main() {
 
 ```
 5. buka browser akses http://localhost:20001/api/user
+
 ![7](images/7.png)
