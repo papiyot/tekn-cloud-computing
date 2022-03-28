@@ -3,7 +3,7 @@
 ## Docker
 Docker adalah layanan yang menyediakan kemampuan untuk mengemas dan menjalankan sebuah aplikasi dalam sebuah lingkungan terisolasi yang disebut dengan container. Dengan adanya isolasi dan keamanan yang memadai memungkinkan kamu untuk menjalankan banyak container di waktu yang bersamaan pada host tertentu. Docker ini diperkenalkan pada tahun 2013 oleh Solomon Hykes pada acara PyCon. Beberapa bulan setelahnya docker secara resmi diluncurkan, tepatnya pada tahun 2014. Semenjak itu docker menjadi sangat populer di kalangan developer luar negeri, tetapi belum terlalu populer di Indonesia. 
 
-###Fitur-fitur docker
+### Fitur-fitur docker
 Setelah mengetahui pengertiannya, sekarang kita masuk ke fitur-fitur dari docker yang dapat kamu gunakan sesuai dengan kebutuhanmu.
 
 1. Docker engine
@@ -24,7 +24,7 @@ Sama seperti fitur sebelumnya, fitur ini juga memungkinkan penggunanya untuk men
 6. Docker for Windows
 Fitur terakhir dan sudah pasti fitur yang paling banyak digunakan dibandingkan dengan fitur-fitur lainnya yaitu docker for windows. Fitur ini memungkinkan penggunanya untuk menjalankan container pada sistem operasi windows.
 
-###Kelebihan
+### Kelebihan
 Dalam penggunaannya, docker memiliki beragam manfaat atau kelebihan yang menjadikannya populer di kalangan developer. Berikut ini adalah beberapa kelebihannya.
 
 1. Memiliki konfigurasi yang sederhana
