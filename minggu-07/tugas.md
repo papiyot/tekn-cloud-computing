@@ -37,7 +37,7 @@ volumes:
   db:
 
 ```
-3. jalankan dicker-compose up -d
+3. jalankan docker-compose up -d
 4. buka aplikasi lewat browser http://localhost:8080
 
 ![17](images/17.png)
