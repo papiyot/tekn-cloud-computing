@@ -3,4 +3,4 @@
 # Minggu 9
 
 link file :
-1. [Latihan](https://github.com/papiyot/tekn-cloud-computing/blob/master/minggu-08/latihan.md)
+1. [Latihan](https://github.com/papiyot/tekn-cloud-computing/blob/master/minggu-09/latihan.md)
