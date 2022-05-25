@@ -17,7 +17,9 @@
 6. python3 linkextractor.py
 
 ![2](images/2.png)
+
 ![2a](images/2a.png)
+
 ![2b](images/2b.png)
 
 ## Step 1: Containerized Link Extractor Script
@@ -30,8 +32,11 @@
 7. docker container run -it --rm linkextractor:step1 https://training.play-with-docker.com/
 
 ![3](images/3.png)
+
 ![3a](images/3a.png)
+
 ![3b](images/3b.png)
+
 ![3c](images/3c.png)
 
 ## Step 2: Link Extractor Module with Full URI and Anchor Text
@@ -44,7 +49,9 @@
 
 
 ![4](images/4.png)
+
 ![4a](images/4a.png)
+
 ![4b](images/4b.png)
 
 
@@ -61,7 +68,9 @@
 10. docker container rm -f linkextractor
 
 ![5](images/5.png)
+
 ![5a](images/5a.png)
+
 ![5b](images/5b.png)
 
 ## Step 4: Link Extractor API and Web Front End Services
@@ -77,7 +86,9 @@
 10. docker-compose down
 
 ![6](images/6.png)
+
 ![6a](images/6a.png)
+
 ![6b](images/6b.png)
 
 ## Step 5: Redis Service for Caching
@@ -93,7 +104,9 @@
 10. docker-compose down
 
 ![7](images/7.png)
+
 ![7a](images/7a.png)
+
 ![7b](images/7b.png)
 
 ## Step 6: Swap Python API Service with Ruby
@@ -108,5 +121,7 @@
 9. cat logs/extraction.log
 
 ![8](images/8.png)
+
 ![8a](images/8a.png)
+
 ![8b](images/8b.png)
